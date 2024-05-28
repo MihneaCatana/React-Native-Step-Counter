@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "119921524802",
+    "firebase_url": "https://reactnative-d802d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reactnative-d802d",
+    "storage_bucket": "reactnative-d802d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119921524802:android:c7bc607ee59a2766882ddb",
+        "android_client_info": {
+          "package_name": "com.mihneairina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnXeJJKsRQQ1hJrdjzW0glQBXWtX6ZilY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
